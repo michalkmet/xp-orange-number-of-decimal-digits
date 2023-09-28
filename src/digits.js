@@ -1,5 +1,5 @@
 function digits() {
-  return 'hello';
+  return 1;
 }
 
 module.exports = digits;
