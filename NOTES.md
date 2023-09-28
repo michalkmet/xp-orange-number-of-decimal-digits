@@ -25,3 +25,8 @@ Story2: 2 digits numbers
 As a user, I want to see number of digits (2 digits)
 - ✅ DONE UAT2.1: When I pass 11, then I should see 2
 - ✅ DONE UAT2.2: When I pass 66, then I should see 2
+
+Story3: 3 digits numbers
+As a user, I want to see number of digits (3 digits)
+- 🚧 IN PROGRESS UAT3.1: When I pass 100, then I should see 3
+- ⚠ TODO UAT3.2: When I pass 666, then I should see 3
