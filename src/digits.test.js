@@ -1,7 +1,7 @@
-const hello = require('./hello');
+const digits = require('./digits');
 
 describe('hello', () => {
   it('should return hello', () => {
-    expect(hello()).toBe('hello');
+    expect(digits()).toBe('hello');
   });
 });

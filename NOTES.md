@@ -13,5 +13,5 @@ All inputs will be valid.
 
 Pomodoro 1:
 - ✅ DONE Plan for pomodoro 1
-- ⚠ TODO initial refactor
+- ✅ DONE initial refactor
 - ⚠ TODO create user stories , include examples
