@@ -24,4 +24,4 @@ As a user, I want to see number of digits (1 digit)
 Story2: 2 digits numbers
 As a user, I want to see number of digits (2 digits)
 - ✅ DONE UAT2.1: When I pass 11, then I should see 2
-- ⚠ TODO UAT2.2: When I pass 66, then I should see 2
+- ✅ DONE UAT2.2: When I pass 66, then I should see 2

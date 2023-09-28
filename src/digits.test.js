@@ -16,4 +16,7 @@ describe('Story2: 2 digits numbers', () => {
   it('UAT2.1: When I pass 11, then I should see 2', () => {
     expect(digits(11)).toBe(2);
   });
+  it('UAT2.2: When I pass 66, then I should see 2', () => {
+    expect(digits(66)).toBe(2);
+  });
 });
