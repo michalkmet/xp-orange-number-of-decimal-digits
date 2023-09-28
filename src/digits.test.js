@@ -7,4 +7,7 @@ describe('Story1: 1 digit numbers', () => {
   it('UAT1.2: When I pass 1, then I should see 1', () => {
     expect(digits(1)).toBe(1);
   });
+  it('UAT1.3: When I pass 9, then I should see 1', () => {
+    expect(digits(9)).toBe(1);
+  });
 });

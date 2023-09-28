@@ -19,4 +19,4 @@ Pomodoro 1:
 As a user, I want to see number of digits (1 digit)
 - ✅ DONE UAT1.1: When I pass 0, then I should see 1
 - ✅ DONE  UAT1.2: When I pass 1, then I should see 1
-- ⚠ TODO UAT1.3: When I pass 9, then I should see 1
+- ✅ DONE UAT1.3: When I pass 9, then I should see 1
