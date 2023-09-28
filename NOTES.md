@@ -18,5 +18,10 @@ Pomodoro 1:
 - Story1: 1 digit numbers
 As a user, I want to see number of digits (1 digit)
 - ✅ DONE UAT1.1: When I pass 0, then I should see 1
-- ✅ DONE  UAT1.2: When I pass 1, then I should see 1
+- ✅ DONE UAT1.2: When I pass 1, then I should see 1
 - ✅ DONE UAT1.3: When I pass 9, then I should see 1
+
+Story2: 2 digits numbers
+As a user, I want to see number of digits (2 digits)
+- ✅ DONE UAT2.1: When I pass 11, then I should see 2
+- ⚠ TODO UAT2.2: When I pass 66, then I should see 2

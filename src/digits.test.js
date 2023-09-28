@@ -11,3 +11,9 @@ describe('Story1: 1 digit numbers', () => {
     expect(digits(9)).toBe(1);
   });
 });
+
+describe('Story2: 2 digits numbers', () => {
+  it('UAT2.1: When I pass 11, then I should see 2', () => {
+    expect(digits(11)).toBe(2);
+  });
+});
