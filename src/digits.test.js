@@ -29,3 +29,9 @@ describe('Story3: 3 digits numbers', () => {
     expect(digits(666)).toBe(3);
   });
 });
+
+describe('Story4: 4+ digits numbers', () => {
+  it('UAT4.1:  When I pass 9999, then I should see 4', () => {
+    expect(digits(9999)).toBe(4);
+  });
+});
