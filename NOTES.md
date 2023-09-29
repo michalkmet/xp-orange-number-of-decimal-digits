@@ -41,6 +41,6 @@ As a user, I want to see number of digits (3 digits)
 - Story4: 4+ digits number
 - ✅ DONE UAT4.1:  When I pass 9999, then I should see 4
 - ✅ DONE UAT4.2:  When I pass 12345, then I should see 5
-- ⚠ TODO UAT4.3:  When I pass 128685, then I should see 6
+- ✅ DONE UAT4.3:  When I pass 128685, then I should see 6
 - ⚠ TODO UAT4.4:  When I pass 9876543210, then I should see 10
 - ⚠ TODO UAT4.5:  When I pass 9007199254740991, then I should see 16

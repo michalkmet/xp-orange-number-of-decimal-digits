@@ -37,4 +37,7 @@ describe('Story4: 4+ digits numbers', () => {
   it('UAT4.2:  When I pass 12345, then I should see 5', () => {
     expect(digits(12345)).toBe(5);
   });
+  it('UAT4.3:  When I pass 128685, then I should see 6', () => {
+    expect(digits(128685)).toBe(6);
+  });
 });
