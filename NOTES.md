@@ -36,4 +36,4 @@ Pomodor 2:
 Story3: 3 digits numbers
 As a user, I want to see number of digits (3 digits)
 - ✅ DONE UAT3.1: When I pass 100, then I should see 3
-- ⚠ TODO UAT3.2: When I pass 666, then I should see 3
+- ✅ DONE UAT3.2: When I pass 666, then I should see 3
