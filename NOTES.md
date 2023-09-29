@@ -43,4 +43,4 @@ As a user, I want to see number of digits (3 digits)
 - ✅ DONE UAT4.2:  When I pass 12345, then I should see 5
 - ✅ DONE UAT4.3:  When I pass 128685, then I should see 6
 - ✅ DONE UAT4.4:  When I pass 9876543210, then I should see 10
-- ⚠ TODO UAT4.5:  When I pass 9007199254740991, then I should see 16
+- ✅ DONE UAT4.5:  When I pass 9007199254740991, then I should see 16
