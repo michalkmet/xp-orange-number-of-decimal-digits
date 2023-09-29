@@ -31,9 +31,16 @@ As a user, I want to see number of digits (3 digits)
 - 🚧 IN PROGRESS UAT3.1: When I pass 100, then I should see 3
 - ⚠ TODO UAT3.2: When I pass 666, then I should see 3
 
-Pomodor 2:
+Pomodoro 2:
 
 Story3: 3 digits numbers
 As a user, I want to see number of digits (3 digits)
 - ✅ DONE UAT3.1: When I pass 100, then I should see 3
 - ✅ DONE UAT3.2: When I pass 666, then I should see 3
+- 
+- Story4: 4+ digits number
+- ⚠ TODO UAT4.1:  When I pass 9999, then I should see 4
+- ⚠ TODO UAT4.2:  When I pass 12345, then I should see 5
+- ⚠ TODO UAT4.3:  When I pass 128685, then I should see 6
+- ⚠ TODO UAT4.4:  When I pass 9876543210, then I should see 10
+- ⚠ TODO UAT4.5:  When I pass 9007199254740991, then I should see 16
